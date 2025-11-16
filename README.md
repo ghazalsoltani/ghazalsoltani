@@ -1,76 +1,80 @@
-<h1 align="center">Hi, I'm Ghazal 👋</h1>
+<h2 align="left">Hi 👋! I'm Ghazal Soltani — Full-Stack Developer based in Paris 🇫🇷</h2>
 
-<p align="center">
-  <b>Web Developer</b> · Frontend (React/TypeScript) · Backend (PHP / Symfony)
-</p>
-
----
-
-### 🚀 About Me
-I'm a web developer focused on building clean, functional applications.  
-I enjoy working with modern frontend tools, API integrations (like YouTube API),  
-and full-stack projects that solve real problems.
-
-- 🔭 Currently working on **YouTube Library App**  
-- 🌱 Improving skills in **React, TypeScript, Symfony**  
-- 🎯 Goal: Build polished portfolio projects  
-- 💬 Ask me about **React, APIs, Frontend Architecture**
+🎯 Passionate Full-Stack Developer (Bac+4 CDA) specialized in **Symfony, Java/Spring Boot, React, Angular**,  
+with strong experience in **API integration, CI/CD pipelines, and clean architecture (MVC)**.  
+I enjoy building scalable applications, writing clean code, and learning cutting-edge technologies.
 
 ---
 
-### 🛠 Tech Stack
+### 🚀 **Tech Stack**
 
-#### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,html,css,tailwind,js" />
-</p>
-
-#### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,symfony,express,nodejs" />
-</p>
-
-#### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-#### 🔹 **[YouTube Library](https://github.com/ghazalsoltani/Youtube-library)**  
-React + TypeScript app using YouTube API  
-⭐ *Includes search, video listing, categories, reusable components*
-
-#### 🔹 **[Ecommerce Symfony App](https://github.com/ghazalsoltani/Ecommerce-Symfony-App)**  
-A PHP/Symfony e-commerce backend with authentication, products, cart.
-
-#### 🔹 **[Memory Game](https://github.com/ghazalsoltani/Memory)**  
-A fun TypeScript game demonstrating state management and animations.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img width="12" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ghazalsoltani&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalsoltani&layout=compact&theme=radical" />
-</p>
+### 📊 **Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazalsoltani&show_icons=true&theme=dracula&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghazalsoltani&layout=compact&theme=dracula" height="150"/>
+</div>
 
 ---
 
-### 🤝 Let's Connect
+## 🌟 Featured Projects
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+### 🔥 **E-commerce Full-Stack (Symfony 7 + Docker)**
+➡️ *Complete e-commerce system with checkout, Stripe, Mailjet, authentication, and admin dashboard*  
+🔗 https://github.com/ghazalsoltani/Ecommerce-Symfony-App
+
+### 🎬 **YouTube Library (React + TypeScript + Node.js)**  
+➡️ *Full-stack app to manage a YouTube video library using React, Express, and local JSON storage*  
+🔗 https://github.com/ghazalsoltani/Youtube-library
+
+### 🧠 **Memory Game (JavaScript / React)**  
+➡️ *Gamified memory card game implementing React components and UI animations*  
+🔗 https://github.com/ghazalsoltani/Memory
+
+### 🌀 **Symfony Mini-Projects & Experiments**  
+➡️ *Small experiments with routing, forms, controllers, Twig, and architecture patterns*  
+🔗 https://github.com/ghazalsoltani/symfony
+
+---
+
+## 🔗 Connect with me
+
+<div align="left">
+  <a href="mailto:ghazal.soltaninasab@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
   </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="https://www.linkedin.com/in/ghazal-soltani/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
   </a>
-</p>
+  <a href="https://github.com/ghazalsoltani">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="35"/>
+  </a>
+</div>
 
----
+
 
