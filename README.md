@@ -1,67 +1,76 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi, I'm Ghazal 👋</h1>
 
-###
+<p align="center">
+  <b>Web Developer</b> · Frontend (React/TypeScript) · Backend (PHP / Symfony)
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+### 🚀 About Me
+I'm a web developer focused on building clean, functional applications.  
+I enjoy working with modern frontend tools, API integrations (like YouTube API),  
+and full-stack projects that solve real problems.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+- 🔭 Currently working on **YouTube Library App**  
+- 🌱 Improving skills in **React, TypeScript, Symfony**  
+- 🎯 Goal: Build polished portfolio projects  
+- 💬 Ask me about **React, APIs, Frontend Architecture**
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+### 🛠 Tech Stack
 
-###
+#### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,html,css,tailwind,js" />
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+#### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=php,symfony,express,nodejs" />
+</p>
 
-###
+#### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+---
 
-###
+### 📌 Featured Projects
 
-<h3 align="left">🛠 Language and tools</h3>
+#### 🔹 **[YouTube Library](https://github.com/ghazalsoltani/Youtube-library)**  
+React + TypeScript app using YouTube API  
+⭐ *Includes search, video listing, categories, reusable components*
 
-###
+#### 🔹 **[Ecommerce Symfony App](https://github.com/ghazalsoltani/Ecommerce-Symfony-App)**  
+A PHP/Symfony e-commerce backend with authentication, products, cart.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+#### 🔹 **[Memory Game](https://github.com/ghazalsoltani/Memory)**  
+A fun TypeScript game demonstrating state management and animations.
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📊 GitHub Stats
 
-###
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ghazalsoltani&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalsoltani&layout=compact&theme=radical" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+### 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
