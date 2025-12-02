@@ -34,14 +34,6 @@ I enjoy building scalable applications, writing clean code, and learning cutting
 
 ---
 
-### 📊 **Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazalsoltani&show_icons=true&theme=dracula&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghazalsoltani&layout=compact&theme=dracula" height="150"/>
-</div>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🔥 **E-commerce Full-Stack (Symfony 7 + Docker)**
