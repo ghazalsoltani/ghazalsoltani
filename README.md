@@ -41,8 +41,8 @@ Une application e-commerce complète démontrant une architecture moderne décou
 
 
 ### 🔗 Repositories:
-[Backend](https://github.com/ghazalsoltani/Ecommerce-Symfony-App)
-[Frontend](https://github.com/ghazalsoltani/laboutiquefrancaise-frontend)
+[Ghazaléa - Backend](https://github.com/ghazalsoltani/Ecommerce-Symfony-App)
+[Ghazaléa - Frontend](https://github.com/ghazalsoltani/laboutiquefrancaise-frontend)
 
 ---
 
