@@ -26,7 +26,7 @@ Passionnée par le développement web, je construis des applications modernes et
 
 ### 🚀 Projet Principal
 
-#### [La Boutique Française](https://github.com/ghazalsoltani/Ecommerce-Symfony-App) - E-commerce Full Stack
+#### [Ghazaléa](https://github.com/ghazalsoltani/Ecommerce-Symfony-App) - E-commerce Full Stack
 
 [![Backend CI](https://github.com/ghazalsoltani/Ecommerce-Symfony-App/actions/workflows/ci.yml/badge.svg)](https://github.com/ghazalsoltani/Ecommerce-Symfony-App/actions)
 
