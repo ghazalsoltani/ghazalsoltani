@@ -45,7 +45,6 @@ Une application e-commerce complète démontrant une architecture moderne décou
 
 #### [Ghazaléa - Frontend](https://github.com/ghazalsoltani/laboutiquefrancaise-frontend)
 
-----
 
 
 ### 📫 Contact
