@@ -58,9 +58,11 @@ Passionnée par le développement web, je construis des applications modernes et
 
 <div align="center">
 
-### E-commerce Full Stack en Production
+### E-commerce Full Stack en Production:
 
-🌐 **[Voir le site live](https://ghazalea.com)** · 📡 **[Tester l'API](https://ghazalea-backend-production.up.railway.app/api/products)**
+### **[Voir le site live](https://ghazalea.com)**
+
+### **[Tester l'API](https://ghazalea-backend-production.up.railway.app/api/products)**
 
 [![Backend CI](https://github.com/ghazalsoltani/ghazalea-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/ghazalsoltani/ghazalea-backend/actions)
 ![Symfony](https://img.shields.io/badge/Symfony-7.x-000000?style=flat&logo=symfony)
